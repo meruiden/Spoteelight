@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Spoteelight</string>
+    <string name="warning_need_token">You need to request an access token first</string>
+    <string name="code">Code: %1$s</string>
+    <string name="token">Access Token: %1$s</string>
+    <string name="cloud_function_url">https://europe-west3-spaceio-266507.cloudfunctions.net/spotifycolor</string>
+</resources>

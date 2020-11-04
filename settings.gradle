@@ -1,0 +1,4 @@
+include ':yapi-1.0-all'
+include ':spotify-app-remote'
+include ':app'
+rootProject.name = "Spoteelight"
